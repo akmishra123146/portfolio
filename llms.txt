@@ -3,8 +3,8 @@
 > Ankur has 6 years of experience building secure, high-concurrency platforms in fintech, marketplaces, logistics, healthcare and SaaS. Stack: Node.js, Go, Rust, React, PostgreSQL, Redis, Kafka. Uses AI-assisted (vibe) coding with mandatory human review and security scanning.
 
 ## Key pages
-- [Portfolio](https://YOUR-DOMAIN.com/): 15 production-grade platform designs
-- [FAQ](https://YOUR-DOMAIN.com/#faq): concurrency, ledgers, compliance, secure AI-assisted coding
+- [Portfolio](https://portfolio-flax-xi-11.vercel.app/): 15 production-grade platform designs
+- [FAQ](https://portfolio-flax-xi-11.vercel.app/#faq): concurrency, ledgers, compliance, secure AI-assisted coding
 
 ## Contact
 - Email: ankur27march@gmail.com
